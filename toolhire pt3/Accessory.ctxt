@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Accessory
+comment0.text=\r\n\ \ class\ for\ Accessory\ tool.\r\n\r\n\ @author\ Emanuella\ Boamah\r\n\ @version\ Version\ 2\r\n
+comment1.params=isRecyclable
+comment1.target=Accessory(boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Accessory\r\n
+comment2.params=
+comment2.target=Accessory()
+comment3.params=isRecyclable
+comment3.target=void\ getIsRecyclable(boolean)
+comment3.text=\r\n\ \r\n\ @param\ isRecyclable,\ isRecyclable\ if\ the\ tool\ is\ recyclable\r\n
+comment4.params=
+comment4.target=boolean\ setIsRecyclable()
+comment5.params=
+comment5.target=void\ printDetails()
+comment6.params=scanner
+comment6.target=void\ readData(java.util.Scanner)
+comment6.text=\r\n\ \r\n\ @param\ scanner,\ scanner\ object\ to\ read\ the\ file\r\n
+comment7.params=scanner
+comment7.target=void\ readData1(java.util.Scanner)
+comment7.text=\r\n\ \r\n\ @param\ scanner,\ scanner\ object\ to\ read\ the\ file\r\n
+numComments=8

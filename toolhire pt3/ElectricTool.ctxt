@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ElectricTool
+comment0.text=\r\n\ class\ for\ ElectricTools.\r\n\r\n\ @author\ Emmanuella\ Boamah\r\n\ @version\ Version\ 2\r\n
+comment1.params=rechargable\ power
+comment1.target=ElectricTool(boolean,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ElectricTool\r\n
+comment2.params=
+comment2.target=ElectricTool()
+comment3.params=rechargable
+comment3.target=void\ setRechargable(boolean)
+comment4.params=power
+comment4.target=void\ setPower(java.lang.String)
+comment5.params=
+comment5.target=boolean\ getRechargable()
+comment6.params=
+comment6.target=java.lang.String\ getPower()
+comment7.params=
+comment7.target=void\ printDetails()
+comment8.params=scanner
+comment8.target=void\ readData(java.util.Scanner)
+comment8.text=\r\n\ \r\n\ @param\ scanner,\ scanner\ object\ to\ read\ the\ file\r\n
+numComments=9
